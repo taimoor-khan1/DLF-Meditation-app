@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758232867269",
+    "project_id": "dlf-time-meditation",
+    "storage_bucket": "dlf-time-meditation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758232867269:android:e39d8b9b392178c5a22bac",
+        "android_client_info": {
+          "package_name": "com.dlftimermediation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758232867269-lrcfq2oqv6imdrf0podgkdcc9l612g0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmIwP6pb3GeXmyXNvBAg9cUZDCO9Px69s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758232867269-lrcfq2oqv6imdrf0podgkdcc9l612g0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
